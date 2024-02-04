@@ -1,1 +1,9 @@
 console.log("Hello world")
+
+
+const accountId = 150699
+let accountPassword = "pksingh"
+var accountEmail = "pradeeprajmahoba@gmail.com"
+accountCity = "Gurgaon"
+console.table([accountId, accountPassword, accountCity, accountEmail]);
+
